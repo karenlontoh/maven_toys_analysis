@@ -2,13 +2,9 @@
 
 Revenue increase analysis of Maven Toys Stores in Mexico for Q4 2018 using Python and Tableau.
 
----
-
 # Introduction
 
 Maven Toys is a prominent toy store located in Mexico. As of the end of Q3 2018, the store has encountered a decline in revenue compared to the previous quarter. To address this challenge, Maven Toys is striving to increase its revenue by the end of Q4. To facilitate this goal, an in-depth analysis of sales data from January 1, 2017, to September 30, 2018, is underway, focusing on identifying potential revenue growth opportunities for Q4 2018.
-
----
 
 # **Data Overview**
 
@@ -54,8 +50,6 @@ The dataset includes four tables, each containing essential information as follo
 | 4 | Store_Location | Location within the city where the store is found | Specific location within the city |
 | 5 | Store_Open_Date | Date when the store opened | Date of the store's opening |
 
----
-
 # Objectives
 
 The main objectives of this analysis are:
@@ -64,27 +58,19 @@ The main objectives of this analysis are:
 - To identify key factors influencing revenue changes.
 - To provide actionable recommendations for revenue growth in Q4 2018 and beyond.
 
----
-
 # Methodology
 
 The analysis encompasses data cleaning, exploration, analysis, and visualization using Python and Tableau. Key metrics, such as total revenue and trends in units sold, will be examined to derive valuable insights.
 
----
-
 # Conclusion
 
 Toy sales experienced a significant spike in Q4. The target revenue increase of 35% in Q4 2018 is achievable if Maven Toys optimizes its sales strategies, including efficient product stock management and targeted promotions.
-
----
 
 # Recommendation
 
 - **Segmented Discounts**: Implement discounts on best-selling products on December 24th and 31st at high-performing store locations. For stores with lower sales, offer smaller discounts to drive revenue.
 - **Product Bundling**: Create product bundles that pair high-selling items with slower-moving products to increase the appeal and sales of less popular items.
 - **Stock Optimization**: Monitor product stock levels in real-time. Increase stock for high-demand products and enable quick restocking to avoid stock shortages during peak periods.
-
----
 
 # Acknowledgments
 
